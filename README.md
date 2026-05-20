@@ -248,11 +248,6 @@ I handled:
 ---
 
 
-
-
-
----
-
 <div align="center">
 
 ## 🌟 If you like this project, give it a star ⭐
