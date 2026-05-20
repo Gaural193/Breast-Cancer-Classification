@@ -218,13 +218,12 @@ In this project, I independently worked as:
 
 - 👨‍💻 Data Engineer
 - 🤖 Machine Learning Engineer
-- 📝 Technical Writer
+
 
 I handled:
 - Data preprocessing
 - Model development
 - Performance evaluation
-- Documentation & presentation
 
 ---
 
